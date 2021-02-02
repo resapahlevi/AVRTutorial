@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.release.2047502031/AVRDUDEOPTIONS/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.app.release.2047502031/AVRDUDEOPTIONS/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.release.2047502031/AVRDUDEOPTIONS/value=-pm2560 -cstk500v1 -P/dev/ttyACM0
+environment/project/de.innot.avreclipse.configuration.app.release.2047502031/append=true
+environment/project/de.innot.avreclipse.configuration.app.release.2047502031/appendContributed=true
